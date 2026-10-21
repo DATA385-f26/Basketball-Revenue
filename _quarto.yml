@@ -20,9 +20,9 @@ website:
         - text: "Person 1"
           href: person1.qmd
         - text: "Person 2"
-          href: person2.qmd
+          href: Matthew.qmd
       - text: "Comparative Analysis"
-        href: comparison.qmd
+        href: ComparativeAnalysis.qmd
 
 format:
   html:

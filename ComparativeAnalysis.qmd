@@ -1,0 +1,70 @@
+---
+title: "ComparativeAnalysis"
+output: html_document
+---
+
+How profitable has college basketball been in the last 5 years?
+
+What’s in the Sources?
+
+College Sports Finance
+- Conference
+  - Teams
+- Revenue
+  - Team sales
+- Expenses
+  - Travel
+  - Student Aid
+  - Etc
+
+What’s missing?
+- Missing a data code book
+- Only does the division 1 programs who were willing to submit data
+- Missing smaller school revenue
+- Private school revenue is also missing
+- No Meta data used
+- The csv or data holder they used to build the site
+- Missing years before 2018
+
+What’s the limitation?
+- Only schools who were d1 and willing to share their public information are in this set.
+- Smaller schools were excluded so we will not have that data.
+
+Degree and Relevance
+- You could determine if overall a school is operating on a loss for their basketball program
+- You could determine where a team is overspending as well
+- Meta data for private schools and maybe some smaller schools for a better comparison
+
+Ethical Soundness
+- Doesn’t say if the schools had input from the personnel in their programs.
+- Only in house data might be a slight concern.
+- Missing private schools and small schools
+- Not downloadable data, just a data dashboard
+- Problematic if you want to use the data collected for other research questions.
+
+Scope
+- We have the conference , schools, programs (mens and womens), expenses, and revenue
+- Schools in all the major conferences
+- Are teams overspending?
+
+Professional Sports Revenue
+- Franchise/Team
+- Revenue
+
+What’s missing?
+- Missing a data code book
+- The csv or data holder they used to build the site
+- Missing years before 2001
+
+What’s the limitation?
+- Data is limited to professional basketball teams and years
+
+Degree and Relevance
+- You can determine franchise and team growth year to year
+
+Ethical Soundness
+- Not downloadable data, just a data dashboard
+- Problematic if you want to use the data collected for other research questions
+
+Scope
+We have NBA franchise and team revenues
