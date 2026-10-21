@@ -1,5 +1,5 @@
 ---
-title: "Quintens: Data Collection Facts Label"
+title: "Quinten: Data Collection Facts Label"
 execute:
   echo: false
   warning: false
